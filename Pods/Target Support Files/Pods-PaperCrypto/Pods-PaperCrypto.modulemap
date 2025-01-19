@@ -1,0 +1,6 @@
+framework module Pods_PaperCrypto {
+  umbrella header "Pods-PaperCrypto-umbrella.h"
+
+  export *
+  module * { export * }
+}
